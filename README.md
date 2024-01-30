@@ -1,6 +1,6 @@
 # Rooftop_Segmentation using U-Net Model
 
-This is the my final year project of my undergraduate studies, focusing on the application of deep learning techniques for semantic segmentation of aerial images. In this project, the AIRS dataset is utilized, comprising satellite images and corresponding segmented masks for roof structures. The code represents the implementation of a U-Net model for semantic segmentation of aerial images using the AIRS dataset. Here's the code breakdown:
+This is the final year project of my undergraduate studies, focusing on the application of deep learning techniques for semantic segmentation of aerial images. In this project, the AIRS dataset is utilized, comprising satellite images and corresponding segmented masks for roof structures. The code represents the implementation of a U-Net model for semantic segmentation of aerial images using the AIRS dataset. Here's the code breakdown:
 
 
 Dataset Overview
